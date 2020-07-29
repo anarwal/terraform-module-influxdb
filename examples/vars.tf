@@ -1,0 +1,10 @@
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "dns_name" {}
+variable "vpc_id" {}
+variable "vpc_name" {}
+variable "vpc_cidr" {}
+variable "zone_id" {}
+variable "subnet_id" {}
+variable "env_name" {}
+variable "tags" {}
